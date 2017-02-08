@@ -15,18 +15,18 @@ This should be changed to just another relative element once I have enough conte
 */
 #footer {
 	padding: 2px;
-	position: absolute;	
+	position: fixed;	
 	bottom: 0;
 	right: 0;
 	left: 0;
 	text-align: center;
 	background-color: #EEE;
-
 }
 
 .maincontent {
 	width: 61.8%;
 	margin: auto;
+	margin-bottom: 2rem;
 }
 
 body {
