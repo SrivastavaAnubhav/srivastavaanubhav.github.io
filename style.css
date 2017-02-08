@@ -1,0 +1,75 @@
+#header {
+	background-color: #EEE;
+	padding: 1px;
+}
+
+#headercontent {
+	margin: auto;
+	padding: 0px;
+	width: 61.8%;
+	color: #444;	
+}
+
+#footer {
+	padding: 2px;
+	position: absolute;
+	bottom: 0;
+	right: 0;
+	left: 0;
+	text-align: center;
+	background-color: #EEE;
+}
+
+.maincontent {
+	width: 61.8%;
+	margin: auto;
+}
+
+body {
+	font-family: "Century Gothic";
+	margin: 0rem;
+	padding: 0rem;
+}
+
+html {
+	font-size: 100%;
+}
+
+a {
+	text-decoration: none;
+}
+
+h1 {
+	font-size: 2.2rem;
+}
+
+h2 {
+	font-size: 2rem;
+	padding: 0px;
+	margin-bottom: 0.5rem;
+}
+
+h3 {
+	text-align: center;
+}
+
+p {
+	font-size: 16pt;
+	padding: 0rem;
+	margin: 0rem;
+	margin-bottom: 0.2rem;
+}
+
+#projects {
+	display: flex;
+	justify-content: space-around;
+	padding-bottom: 0.3rem;
+}
+
+.project {
+	flex-basis: 30%;
+	padding: 0.5rem;
+	text-align: justify;
+	border-radius: 1rem;
+	background-color: linen;
+}
