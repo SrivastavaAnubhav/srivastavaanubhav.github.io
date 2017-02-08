@@ -10,14 +10,18 @@
 	color: #444;	
 }
 
+/*
+This should be changed to just another relative element once I have enough content
+*/
 #footer {
 	padding: 2px;
-	position: absolute;
+	position: absolute;	
 	bottom: 0;
 	right: 0;
 	left: 0;
 	text-align: center;
 	background-color: #EEE;
+
 }
 
 .maincontent {
@@ -55,6 +59,7 @@ h3 {
 
 p {
 	font-size: 16pt;
+	text-align: justify;
 	padding: 0rem;
 	margin: 0rem;
 	margin-bottom: 0.2rem;
