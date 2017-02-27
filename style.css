@@ -59,7 +59,6 @@ h3 {
 
 p {
 	font-size: 16pt;
-	text-align: justify;
 	padding: 0rem;
 	margin: 0rem;
 	margin-bottom: 0.2rem;
@@ -74,7 +73,6 @@ p {
 .project {
 	flex-basis: 30%;
 	padding: 0.5rem;
-	text-align: justify;
 	border-radius: 1rem;
-	background-color: linen;
+	background-color: #DDF;
 }
